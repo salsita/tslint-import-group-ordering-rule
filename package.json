@@ -1,6 +1,6 @@
 {
   "name": "@salsita-npm/tslint-import-group-ordering-rule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TSLint rule set enforcing ordering and grouping of imports according to origins",
   "main": "dist/index.js",
   "scripts": {
